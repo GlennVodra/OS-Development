@@ -19,6 +19,6 @@ extern "C" void callConstructors(){
 
 extern "C" void kernelMain(void* multiboot_structure, unsigned int magicnumber){
 	printf("Hello World!");
-	
+	GlobalDescriptorTable gdt;
 	while(1);
 }
