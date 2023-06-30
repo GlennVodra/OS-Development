@@ -1,5 +1,6 @@
 # OS-Development
-Learning how to build a simple OS
+Learning how to build a simple OS\
+Now developed with the help of Windows Subsystem for Linux 
 
 Reference: https://www.youtube.com/playlist?list=PLHh55M_Kq4OApWScZyPl5HhgsTJS9MZ6M
 
